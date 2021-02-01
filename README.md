@@ -1,2 +1,3 @@
 # DotaGPRO
-Dota Review player and heros
+Dota Review player and heroes
+
